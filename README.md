@@ -26,7 +26,9 @@ You are free to develop any kind of show for this Hactoberfest and contribute lo
 
 ### 4. [HackSquad 2022](https://www.hacksquad.dev/)
 Register to the HackSquad using your GitHub, Join a squad or get assigned to a random squad, contribute code and get Swag! Each squad can have a maximum of 5 members.
+If you can't find all 5, you can always turn on the "Allow random people to join my squad". 
 
+- You can join a squad and invite friends or we will auto-assign you to another squads
 - The top 60 squads will win awesome swag! around ~300 winners!
 
 ### 5. [CAMUNDA](https://camunda.com/hacktoberfest2022/)
